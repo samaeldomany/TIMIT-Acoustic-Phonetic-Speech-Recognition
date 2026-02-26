@@ -22,11 +22,7 @@ Key Features
 Requirements
 ------------
 
-Ensure you have Python installed, along with the following dependencies:
-
-Bash
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   pip install torch torchaudio numpy matplotlib soundfile kagglehub   `
+pip install torch torchaudio numpy matplotlib soundfile kagglehub   `
 
 Model Architecture
 ------------------
